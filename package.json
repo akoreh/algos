@@ -2,7 +2,7 @@
   "name": "algos",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "Small algorithm writeups with concise JavaScript examples and tests",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -15,8 +15,8 @@
     "url": "git+https://github.com/akoreh/algos.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Koreh Andrei",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/akoreh/algos/issues"
   },
